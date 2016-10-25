@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:3:4-36
+		INJECTED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml
+		INJECTED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:5:4-29
+		INJECTED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml
+		INJECTED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:4:4-27
+		INJECTED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml
+		INJECTED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:6:2-14:16
+	android:label
+		ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:6:15-47
+	android:icon
+		ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:6:48-84
+activity#org.crazyit.helloworld.HelloWorld
+ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:7:3-13:14
+	android:label
+		ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:8:7-39
+	android:name
+		ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:7:13-38
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:9:4-12:20
+action#android.intent.action.MAIN
+ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:10:5-57
+	android:name
+		ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:10:13-54
+category#android.intent.category.LAUNCHER
+ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from F:\tools\dev\android\ASWork\Sample1\MyApplication\01_05HelloWorld\src\main\AndroidManifest.xml:11:15-62

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_04HelloWorld/01_04HelloWorld.iml" filepath="$PROJECT_DIR$/01_04HelloWorld/01_04HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_05HelloWorld/01_05HelloWorld.iml" filepath="$PROJECT_DIR$/01_05HelloWorld/01_05HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_01CodeView/02_01CodeView.iml" filepath="$PROJECT_DIR$/02_01CodeView/02_01CodeView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_01CustomView/02_01CustomView.iml" filepath="$PROJECT_DIR$/02_01CustomView/02_01CustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_01MixView/02_01MixView.iml" filepath="$PROJECT_DIR$/02_01MixView/02_01MixView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_02FrameLayoutTest/02_02FrameLayoutTest.iml" filepath="$PROJECT_DIR$/02_02FrameLayoutTest/02_02FrameLayoutTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_02LinearLayoutTest/02_02LinearLayoutTest.iml" filepath="$PROJECT_DIR$/02_02LinearLayoutTest/02_02LinearLayoutTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_02TableLayoutTest/02_02TableLayoutTest.iml" filepath="$PROJECT_DIR$/02_02TableLayoutTest/02_02TableLayoutTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+    </modules>
+  </component>
+</project>

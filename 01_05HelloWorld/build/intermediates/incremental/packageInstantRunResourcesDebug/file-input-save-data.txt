@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Thu Oct 20 03:34:26 UTC 2016
+1.base=F\:\\tools\\dev\\android\\ASWork\\Sample1\\MyApplication\\01_05HelloWorld\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\tools\\dev\\android\\ASWork\\Sample1\\MyApplication\\01_05HelloWorld\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+1.file=F\:\\tools\\dev\\android\\ASWork\\Sample1\\MyApplication\\01_05HelloWorld\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v4\\main.xml
+4.set=ANDROID_RESOURCE
+2.base=F\:\\tools\\dev\\android\\ASWork\\Sample1\\MyApplication\\01_05HelloWorld\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=F\:\\tools\\dev\\android\\ASWork\\Sample1\\MyApplication\\01_05HelloWorld\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=F\:\\tools\\dev\\android\\ASWork\\Sample1\\MyApplication\\01_05HelloWorld\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=F\:\\tools\\dev\\android\\ASWork\\Sample1\\MyApplication\\01_05HelloWorld\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\tools\\dev\\android\\ASWork\\Sample1\\MyApplication\\01_05HelloWorld\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=F\:\\tools\\dev\\android\\ASWork\\Sample1\\MyApplication\\01_05HelloWorld\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.base=F\:\\tools\\dev\\android\\ASWork\\Sample1\\MyApplication\\01_05HelloWorld\\build\\intermediates\\res\\resources-debug.ap_

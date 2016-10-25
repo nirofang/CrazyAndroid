@@ -1,0 +1,3 @@
+include ':01_04HelloWorld', '02_01CodeView', '02_01MixView', '02_01CustomView', '02_02LinearLayoutTest', '02_02TableLayoutTest', '02_02FrameLayoutTest'
+include ':01_05HelloWorld'
+include ':01_05HelloWorld'
